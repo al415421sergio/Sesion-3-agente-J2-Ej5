@@ -1,3 +1,5 @@
+print('programa para tocar los cojones')
+
 Python 3.8.10 (default, Jun  2 2021, 10:49:15) 
 [GCC 9.4.0] on linux
 Type "help", "copyright", "credits" or "license()" for more information.
@@ -70,7 +72,7 @@ Mi nombre es Sergio y estudio 1 de Diseño y desarrollo de videojuegos .
 >>> curso_compañero = mi_curso
 >>> curso_compañero
 1
->>> curso_compañero = 3
+>>> curso_compañero = 
 >>> curso_compañero
 3
 >>> mi_curso
